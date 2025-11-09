@@ -1,0 +1,5 @@
+
+# Ignore large files
+/data/books.csv
+/data/songs.csv
+/models/emotiondetector.h5
