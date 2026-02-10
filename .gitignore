@@ -1,5 +1,5 @@
 
-# Ignore large files
-/data/books.csv
-/data/songs.csv
-/models/emotiondetector.h5
+# Ignore large files (except tracked with Git LFS)
+# /data/books.csv
+# /data/songs.csv
+# /models/emotiondetector.h5
